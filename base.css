@@ -1,0 +1,17 @@
+* {
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	
+}
+li {
+	list-style:none;
+}
+body {
+	font:14px/1.5 "Microsoft Yahei","hiragana Sana GB","Heiti SC","WenQuanYi Hei",sana-serif;
+	color:#333;
+}
+a {
+	color:#333;
+	text-decoration:none;
+}
